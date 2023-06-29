@@ -7,3 +7,6 @@
 .flexslider:hover .flex-direction-nav a {
   display: block;
 }
+.flexslider .flex-direction-nav a:before {
+  line-height: 1;
+}
